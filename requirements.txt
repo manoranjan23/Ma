@@ -4,11 +4,10 @@ apscheduler
 asyncio
 beautifulsoup4
 dnspython
-emojis
+emoji
 Faker
 ffmpeg-python
 gitpython
-git+https://github.com/AsmSafone/SafoneAPI
 gtts
 gpytranslate
 hachoir
@@ -38,7 +37,10 @@ telegraph
 tgcrypto
 unidecode
 yt-dlp
-git+https://github.com/yt-dlp/yt-dlp
 youtube-search
 youtube-search-python
 wget
+
+# Git-based packages
+git+https://github.com/AsmSafone/SafoneAPI
+git+https://github.com/yt-dlp/yt-dlp
